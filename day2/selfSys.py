@@ -6,3 +6,4 @@ print(sys.path)
 #test List
 nameList = ["赘婿","qiangren","dawangraoming","lingaoqiming"]
 print(nameList[0])
+print(nameList[1:3])

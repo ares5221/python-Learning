@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67d677b3-049b-44b8-8088-09451913a849" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/MeunTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/TestDIctory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/TestString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/selfSys.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/selfSys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/Cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/Cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/MeunTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/MeunTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/TestDIctory.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/TestDIctory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/TestString.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/TestString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/selfSys.py" beforeDir="false" afterPath="$PROJECT_DIR$/day02/selfSys.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Cart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/Cart.py">
+        <entry file="file://$PROJECT_DIR$/day02/Cart.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
@@ -32,16 +33,16 @@
         </entry>
       </file>
       <file leaf-file-name="TestDIctory.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day2/TestDIctory.py">
+        <entry file="file://$PROJECT_DIR$/day02/TestDIctory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="288">
+              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="selfSys.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/selfSys.py">
+        <entry file="file://$PROJECT_DIR$/day02/selfSys.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
@@ -50,7 +51,7 @@
         </entry>
       </file>
       <file leaf-file-name="MeunTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/MeunTest.py">
+        <entry file="file://$PROJECT_DIR$/day02/MeunTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="502">
               <caret line="59" column="6" lean-forward="true" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
@@ -118,7 +119,7 @@
             <path>
               <item name="python-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,17 +250,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="775" y="178" width="1001" height="757" extended-state="0" />
-    <editor active="true" />
+    <frame x="569" y="176" width="1001" height="757" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2898975" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2898975" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24575424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24575424" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -282,38 +282,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2/Cart.py">
+    <entry file="file://$PROJECT_DIR$/day02/Cart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/TestString.py">
+    <entry file="file://$PROJECT_DIR$/day02/TestString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/MeunTest.py">
+    <entry file="file://$PROJECT_DIR$/day02/MeunTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="59" column="6" lean-forward="true" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/selfSys.py">
+    <entry file="file://$PROJECT_DIR$/day02/selfSys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/TestDIctory.py">
+    <entry file="file://$PROJECT_DIR$/day02/TestDIctory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="288">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>

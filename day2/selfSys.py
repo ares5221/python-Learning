@@ -25,3 +25,10 @@ nameList.extend(nameList2)#合并两个列表
 print(nameList.index("chenzuan"))#返回找到的第一个元素的下标
 print(nameList.sort())
 print(nameList)
+
+#元组
+#元组其实跟列表差不多，也是存一组数，只不是它一旦创建，便不能再修改，所以又叫只读列表
+yuanzu = ("alex","jack","eric")
+#它只有2个方法，一个是count,一个是index，完毕。　
+print(yuanzu.count("alex"))
+print(yuanzu.index("jack"))

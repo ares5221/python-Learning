@@ -36,3 +36,19 @@ for line in f:
         continue
     print(line.strip())
     count += 1
+
+
+#光标回0的位置
+f.seek(0)
+#显示光标位置
+print(f.tell())
+f.read(10)
+print(f.tell())
+
+
+#进度条演示flush将内存中的信息刷到硬盘中
+import sys,time
+for i in range(20):
+    sys.stdout.write("$")
+    sys.stdout.flush()
+    time.sleep(0.1)

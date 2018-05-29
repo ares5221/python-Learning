@@ -45,8 +45,8 @@ print(f.tell())
 f.read(10)
 print(f.tell())
 
-
-#进度条演示flush将内存中的信息刷到硬盘中
+# f.truncate()#截断
+# 进度条演示flush将内存中的信息刷到硬盘中
 import sys,time
 for i in range(20):
     sys.stdout.write("$")

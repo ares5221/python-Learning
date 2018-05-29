@@ -46,4 +46,4 @@ def binary_search(dataset,find_num):
         else:
             print("the number %s is not in the dataset" %find_num)
 
-binary_search(data,18)
+binary_search(data,13)

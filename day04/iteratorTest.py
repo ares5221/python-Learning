@@ -18,5 +18,14 @@ print(a)
 for i in a:
     print(i)
 '''
+#迭代器相当于三行代码实现的for循环
+b =[i*2 for i in range(10)]
+print(b)
+#生成器 只有在调用的时候才会生成相应的数据
+#只记录当前的位置，只有一个next方法
+c = (i*1 for i in range(10))
+print(c.__next__())
+print(c.__next__())
+print(c.__next__())
 
 

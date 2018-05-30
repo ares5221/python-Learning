@@ -12,7 +12,7 @@ def timmer(func):
         print("The func run time is %s" %(stop_time - start_time))
     return warpper
 
-@timmer
+@timmer  #testDecorator = timer(testDecorator)
 def testDecorator():
     time.sleep(3)
     print("In the Main method测试装饰器！")

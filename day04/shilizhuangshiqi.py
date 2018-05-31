@@ -23,17 +23,17 @@ def auth(auth_type):
                     exit("\033[32;1mInvalid username or password\033[0m")
             elif auth_type == "ldap":
                 print("run with ladp")
-
-
         return wrapper
     return outer_wrapper
 
 def index():
     print("Welcom to index page")
+
 @auth(auth_type = "local")
 def home():
     print("welcome to home page")
     return "from home"
+
 @auth(auth_type = "ldap")
 def bbs(auth_type = "ldap"):
     print("welcome to bbs page")

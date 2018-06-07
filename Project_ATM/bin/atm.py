@@ -5,11 +5,11 @@ __mtime__ = '2018/6/4'
 """
 import os
 import sys
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-print(BASE_DIR)
-sys.path.append(BASE_DIR)
-#从其他文件中导入方法模块
-from conf import setting
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+print(base_dir)
+sys.path.append(base_dir)
+
 from core import main
 
-main.login()
+if __name__ == '__main__':
+    main.run()

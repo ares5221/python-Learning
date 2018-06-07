@@ -12,7 +12,7 @@ from module_name import method_name as alise_name
 #导入模块的本质就是把python文件解释一遍
 #导入包的本事就是执行该包下的__init__.py文件
 import sys,os
-print(sys.path)
+#print(sys.path)
 
 x=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(x)
@@ -20,7 +20,7 @@ sys.path.append(x)
 from t import *
 #print(t.name)
 #t.say_hello()
-logger()
+
 def logger():
     print ('in the main')
 logger()

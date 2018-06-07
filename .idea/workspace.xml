@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b659ba4a-3453-48e5-9e17-a38b2dbacb7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day05/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day05/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day05/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day05/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day05/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="-147">
+              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -88,8 +87,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="y" value="56" />
+    <option name="x" value="591" />
+    <option name="y" value="59" />
     <option name="width" value="991" />
     <option name="height" value="599" />
   </component>
@@ -325,7 +324,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="396" y="56" width="991" height="599" extended-state="0" />
+    <frame x="591" y="59" width="991" height="599" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -614,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day05/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="-147">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>

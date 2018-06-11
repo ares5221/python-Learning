@@ -20,13 +20,11 @@ trans_logger = logger.logger('transaction')
 #access logger
 access_logger = logger.logger('access')
 
-
 #temp account data ,only saves the data in memory
 user_data = {
     'account_id':None,
     'is_authenticated':False,
     'account_data':None
-
 }
 
 def account_info(acc_data):
@@ -51,10 +49,8 @@ def repay(acc_data):
             new_balance = transaction.make_transaction(trans_logger,account_data,'repay', repay_amount)
             if new_balance:
                 print('''\033[42;1mNew Balance:%s\033[0m''' %(new_balance['balance']))
-
         else:
             print('\033[31;1m[%s] is not a valid amount, only accept integer!\033[0m' % repay_amount)
-
         if repay_amount == 'b':
             back_flag = True
 def withdraw(acc_data):

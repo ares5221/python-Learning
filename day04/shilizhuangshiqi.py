@@ -29,12 +29,12 @@ def auth(auth_type):
 def index():
     print("Welcom to index page")
 
-@auth(auth_type = "local")
+@auth(auth_type = "local")  #home = auth(home)
 def home():
     print("welcome to home page")
     return "from home"
 
-@auth(auth_type = "ldap")
+@auth(auth_type = "ldap")  #bbs = auth(bbs)
 def bbs(auth_type = "ldap"):
     print("welcome to bbs page")
 

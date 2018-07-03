@@ -20,7 +20,9 @@ while True:
             cmd_res = "cmd has no output..."
 
         conn.send(str(len(cmd_res.encode())).encode("utf-8")) #先发大小给客户端
-        time.sleep(0.5) #否则上下两个send操作会粘包
+        # time.sleep(0.5) #否则上下两个send操作会粘包
+        client_atk = conn.recv(1024); #wait client to confirm
+        print("ack from client:",client_atk)
         conn.send(cmd_res.encode("utf-8"))
         print("send done")
         # os.path.isfile()

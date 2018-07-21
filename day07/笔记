@@ -97,20 +97,3 @@ server.serve_forever() #处理多个一个请求，永远执行
 
 
 Finally, call server_close() to close the socket.
-
-chenronhua
-    a
-        a1
-        a2
-    b
-    c
-chen: cd a
-cd ..
-
-user_current_dir = "/home/chenronghua"
-user_current_dir = "/home/chenronghua"
-
-
-
-
-os.chdir

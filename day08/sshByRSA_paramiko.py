@@ -8,8 +8,8 @@ ssh = paramiko.SSHClient()
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 # 连接服务器
 ssh.connect(hostname='192.168.199.146', port=22, username='fishman', pkey=private_key)
-# 执行命令
-stdin, stdout, stderr = ssh.exec_command('df')
+# 执行命令,若要执行多条命令，可以用分号隔开
+stdin, stdout, stderr = ssh.exec_command('df ;ifconfig')
 # 获取命令结果
 res,err = stdout.read(),stderr.read()
 result = res if res else err

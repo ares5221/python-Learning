@@ -6,10 +6,10 @@ import uuid
 class Haproxy(object):
 
     def __init__(self):
-        self.host = '172.16.103.191'
+        self.host = '192.168.199.146'
         self.port = 22
-        self.username = 'wupeiqi'
-        self.pwd = '123'
+        self.username = 'fishman'
+        self.pwd = '9'
         self.__k = None
 
     def create_file(self):
@@ -38,8 +38,8 @@ class Haproxy(object):
         file_name = self.create_file()
 
         sftp = paramiko.SFTPClient.from_transport(self.__transport)
-        # 将location.py 上传至服务器 /tmp/test.py
-        sftp.put(file_name, '/home/wupeiqi/tttttttttttt.py')
+        # 将location.py 上传至服务器 /test/test.txt
+        sftp.put(file_name, '/home/fishman/test/test.txt')
 
     def rename(self):
 
@@ -53,5 +53,3 @@ class Haproxy(object):
 
 ha = Haproxy()
 ha.run()
-
-Demo

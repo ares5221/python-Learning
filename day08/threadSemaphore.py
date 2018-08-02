@@ -14,6 +14,6 @@ if __name__ == '__main__':
         t.start()
 
 while threading.active_count() != 1:
-    pass  # print threading.active_count()
+    pass# print (threading.active_count())
 else:
     print('----all threads done---')

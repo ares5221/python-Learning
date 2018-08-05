@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-__mtime__ = '2018/6/6'
-"""
+
 import time
 #通过yield实现在单线程的情况下实现并发运算的效果
 def consumer(name):

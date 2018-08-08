@@ -9,6 +9,6 @@ info = {
     "age":23,
     "nation":"china"
 }
-f = open("jsonSave.txt","w")
+f = open("jsonDump.txt","w")
 f.write(json.dumps(info))
 print(json.dumps(info))

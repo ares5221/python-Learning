@@ -4,7 +4,7 @@
 __mtime__ = '2018/6/4'
 """
 import json
-f = open("jsonSave.txt","r")
+f = open("jsonDump.txt","r")
 data = json.loads(f.read())
 print(data["age"])
 print(data["nation"])

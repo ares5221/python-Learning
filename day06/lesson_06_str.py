@@ -7,3 +7,6 @@ class MyClass:
         return 'Hello ' + self.name + '!'
 
 print(MyClass('Tom'))
+
+f = MyClass('ll')
+print (f.__str__())

@@ -46,13 +46,10 @@ def key_control(hero_temp):
 def main():
     #1. 创建窗口
     screen = pygame.display.set_mode((480,852),0,32)
-
     #2. 创建一个背景图片
     background = pygame.image.load("./feiji/background.png")
-
     #3. 创建一个飞机对象
     hero = HeroPlane(screen)
-
     while True:
         screen.blit(background, (0,0))
         hero.display()

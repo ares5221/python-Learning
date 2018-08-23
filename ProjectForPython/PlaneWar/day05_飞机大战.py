@@ -2,33 +2,23 @@
 import pygame
 from pygame.locals import *
 import time
-
 # 子弹夹
 list = []
-
-
 # 程序的入口
 def main():
     # 创建游戏窗口
     screen = pygame.display.set_mode((480, 852), 0, 32)
-
     # 接收背景图片信息
     backgroud = pygame.image.load("./feiji/background.png")
-
     # 飞机图片的接收
     plane = pygame.image.load("./feiji/hero1.png")
-
     a = pygame.image.load("./feiji/enemy0.png")
     # 设置飞机的位置
     x = 480 / 2 - 100 / 2
     y = 600
-
     # 设置飞机的速度
     speed = 10
-
     while True:
-
-
         # 把图片剪切到游戏窗口上
         screen.blit(backgroud, (0, 0))
         screen.blit(a, (200, 100))
@@ -37,10 +27,8 @@ def main():
             if event.type == pygame.QUIT:
                 pygame.quit()
                 exit()
-
         # 监听键盘事件
         key_pressed = pygame.key.get_pressed()  # 注意这种方式是能够检测到连续按下的，比之前的版本要新
-
         if key_pressed[K_w] or key_pressed[K_UP]:
             print("up")
             y -= speed
@@ -70,10 +58,8 @@ def main():
             i["y"] -= 25
 
         screen.blit(plane, (x, y))
-
         # 更新数据
         pygame.display.update()
-
         # 减少cpu的使用量
         time.sleep(0.01)
 

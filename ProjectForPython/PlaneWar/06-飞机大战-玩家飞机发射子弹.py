@@ -45,7 +45,6 @@ def key_control(hero_temp):
 
     #获取事件，比如按键等
     for event in pygame.event.get():
-
         #判断是否是点击了退出按钮
         if event.type == QUIT:
             print("exit")

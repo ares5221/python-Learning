@@ -145,7 +145,7 @@ class Element(pygame.sprite.Sprite):
     stop_position = (20, 530)
 
     def __init__(self, icon, position):
-        super().__init__()
+        super(self).__init__()
         self.image = pygame.image.load(icon).convert_alpha()
         self.rect = self.image.get_rect()
         self.rect.topleft = position         # 左上角坐标

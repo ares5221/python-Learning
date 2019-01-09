@@ -1,162 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9547e1c5-ac3c-4e01-a25e-bf42f49e9807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/bin/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/bin/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/bin/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/bin/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/config/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/bomb.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/bomb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/btn_finish.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/btn_finish.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/bullet1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/bullet1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/bullet2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/bullet2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy1_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy1_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy1_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy1_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy1_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy1_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy1_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy1_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy2_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy2_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down5.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_down6.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_down6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_n1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_n1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/enemy3_n2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/enemy3_n2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_loading1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_loading1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_loading2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_loading2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_loading3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_loading3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_loading4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_loading4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_over.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_over.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_pause_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_pause_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_pause_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_pause_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_resume_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_resume_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/game_resume_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_resume_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero_blowup_n1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero_blowup_n1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero_blowup_n2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero_blowup_n2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero_blowup_n3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero_blowup_n3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/hero_blowup_n4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/hero_blowup_n4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/life.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/life.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/shoot_copyright.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/shoot_copyright.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/ufo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/ufo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/image/ufo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/ufo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/play.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/play.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/achievement.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/achievement.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/achievement.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/achievement.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/big_spaceship_flying.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/big_spaceship_flying.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/big_spaceship_flying.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/big_spaceship_flying.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/bullet.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/bullet.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/bullet.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/bullet.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/button.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/button.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/button.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/button.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy1_down.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy1_down.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy1_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy1_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy2_down.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy2_down.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy2_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy2_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy2_out.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy2_out.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy3_down.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy3_down.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/enemy3_down.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/enemy3_down.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/game_music.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/game_music.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/game_music.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/game_music.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/game_over.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/game_over.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/game_over.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/game_over.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/get_bomb.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/get_bomb.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/get_bomb.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/get_bomb.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/get_double_laser.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/get_double_laser.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/get_double_laser.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/get_double_laser.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/out_porp.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/out_porp.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/use_bomb.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/use_bomb.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/material/sound/use_bomb.wav" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/sound/use_bomb.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/src/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/src/bullet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/src/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/src/enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/PlaneWarPlus/src/plane.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/src/plane.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/airplaneFight.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/airplaneFight.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/New Atlas.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/New Atlas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/background.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bomb-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bomb-1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bomb-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bomb-2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bomb.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bomb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/btn_finish.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/btn_finish.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet-1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet-2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet-3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet-3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/bullet2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/bullet2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/button_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/button_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/button_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/button_p.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy-1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy-1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy-2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy-2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy-3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy-3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy0.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy0_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy0_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy0_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy0_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy0_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy0_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy0_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy0_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy1_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy1_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down5.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_down6.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_down6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_hit.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_hit.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/enemy2_n2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/enemy2_n2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_loading1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_loading1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_loading2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_loading2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_loading3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_loading3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_loading4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_loading4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_pause_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_pause_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_pause_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/02PlaneWarPro/material/image/game_pause_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_resume_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_resume_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/game_resume_pressed.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/game_resume_pressed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/gameover.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/gameover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/gameover2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/gameover2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero.gif" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero_blowup_n1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero_blowup_n1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero_blowup_n2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero_blowup_n2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero_blowup_n3.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero_blowup_n3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/hero_blowup_n4.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/hero_blowup_n4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/icon72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/icon72x72.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/loading.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/name.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/name.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/plane.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/plane.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/progress.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/progress.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/prop_type_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/prop_type_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/prop_type_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/prop_type_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/quit_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/quit_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/quit_sel.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/quit_sel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/restart_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/restart_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/restart_sel.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/restart_sel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/resume_nor.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/resume_nor.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/AirplaneWar/feiji/resume_sel.png" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/01PlaneWar/feiji/resume_sel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectForPython/py-icehappy-master/manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectForPython/py-icehappy-master/manager.py" afterDir="false" />
-    </list>
+    <list default="true" id="9547e1c5-ac3c-4e01-a25e-bf42f49e9807" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjectForPython/py-icehappy-master/manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -280,7 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python-Crawler-Projects/QQ_zone" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -432,23 +277,22 @@
       <option name="presentableId" value="Default" />
       <updated>1546593515328</updated>
       <workItem from="1546593516456" duration="3047000" />
-      <workItem from="1546824099421" duration="1426000" />
+      <workItem from="1546824099421" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4473000" />
+    <option name="totallyTimeSpent" value="4926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="422" y="30" width="1459" height="1001" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20943531" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -553,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectForPython/py-icehappy-master/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="41" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
